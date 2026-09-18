@@ -1,0 +1,23 @@
+name = "divisor_witnesses"
+version = "0.1.0"
+defaultTargets = ["DivisorWitnesses"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "0df444a360eaa60ab8c11dca51a86af692955474"
+
+[[lean_lib]]
+name = "ErdosProblems"
+
+[[lean_lib]]
+name = "Util"
+
+[[lean_lib]]
+name = "UnitFractions"
+
+[[lean_lib]]
+name = "BoundedGaps"
+
+[[lean_lib]]
+name = "DivisorWitnesses"

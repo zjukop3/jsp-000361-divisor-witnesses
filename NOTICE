@@ -1,0 +1,18 @@
+This project includes attributed adaptations of source published in
+https://github.com/plby/lean-proofs at commit
+8822f7ddef30fadbd92e1c6ab4ed897af356af5e.
+
+The upstream Lean files retain their Apache License 2.0 headers.  The
+prime-Mertens dependency is from
+https://github.com/frenzymath/FormalPantheon at commit
+ffbb65c21afc8a36ace67720f1b0df1c63d26bd1 and retains its Apache License 2.0
+license.  This repository's original additions and modifications are prepared
+under the Apache License 2.0.  Exact file hashes and excerpt relationships are
+listed in upstream-manifest.json.
+
+Original mathematical attribution for Erdős Problem 444: Paul Erdős and
+András Sárközy, [ErSa80], *Some asymptotic formulas on generalized divisor
+functions IV*, Studia Sci. Math. Hungar. 15 (1980), 467–479.
+
+Modifications and extensions were prepared by zjukop3 with OpenAI
+ChatGPT/Codex assistance.
